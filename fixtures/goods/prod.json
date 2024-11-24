@@ -1,0 +1,58 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "Шорты",
+            "slug": "shorty",
+            "description": "Короткие",
+            "image": "",
+            "price": "400.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 1
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "Юбка",
+            "slug": "yubka",
+            "description": "Стильная",
+            "image": "",
+            "price": "500.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "Носочки",
+            "slug": "nosochki",
+            "description": "Детские",
+            "image": "",
+            "price": "75.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Освежитель воздуха",
+            "slug": "osvezhitel-vozduha",
+            "description": "",
+            "image": "",
+            "price": "350.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 4
+        }
+    }
+]
